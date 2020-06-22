@@ -1,5 +1,5 @@
 {
-  "name": "keen-slider",
+  "name": "@noim/keen-slider",
   "version": "4.2.1",
   "description": "The HTML touch slider carousel with the most native feeling you will get.",
   "main": "keen-slider.js",
